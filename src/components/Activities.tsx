@@ -46,7 +46,7 @@ const Activities = () => {
         </div>
 
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
-          {activities.map((activity, index) => (
+          {activities.map((activity) => (
             <div
               key={activity.name}
               className="bg-white rounded-lg shadow-md p-8 hover:shadow-lg transition-shadow"

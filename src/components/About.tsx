@@ -1,3 +1,5 @@
+"use client";
+
 const About = () => {
   return (
     <section id="about" className="py-20 bg-white">
@@ -15,7 +17,7 @@ const About = () => {
               The Global Citizens Association is dedicated to fostering meaningful social engagement among a diverse range of individuals, including international students at UTSA as well as second or third generation immigrant students, American students, and others.
             </p>
             <p className="text-lg text-gray-600">
-              Our organization's primary objective is to cultivate interpersonal connections that transcend cultural boundaries, facilitating the formation of lifelong relationships. Emphasizing the importance of social constructs, we strive to create an inclusive and enriching environment through a variety of enjoyable and revitalizing social activities.
+              Our organization&apos;s primary objective is to cultivate interpersonal connections that transcend cultural boundaries, facilitating the formation of lifelong relationships. Emphasizing the importance of social constructs, we strive to create an inclusive and enriching environment through a variety of enjoyable and revitalizing social activities.
             </p>
             <p className="text-lg text-gray-600">
               Furthermore, we recognize the significance of mental health and well-being, and thus our secondary focus entails organizing agility-based events and opportunities that promote holistic wellness.
